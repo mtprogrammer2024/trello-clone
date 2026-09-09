@@ -1,0 +1,27 @@
+# ===== Backend (Laravel) =====
+trello-clone-backend/vendor/
+trello-clone-backend/node_modules/
+trello-clone-backend/.env
+trello-clone-backend/database/database.sqlite
+trello-clone-backend/storage/*.key
+trello-clone-backend/storage/logs/*.log
+trello-clone-backend/storage/framework/cache/*
+trello-clone-backend/storage/framework/sessions/*
+trello-clone-backend/storage/framework/views/*
+trello-clone-backend/bootstrap/cache/*.php
+trello-clone-backend/.phpunit.result.cache
+trello-clone-backend/public/hot
+trello-clone-backend/public/storage
+
+# ===== Frontend (React/Vite) =====
+trello-clone-frontend/node_modules/
+trello-clone-frontend/dist/
+trello-clone-frontend/.env
+trello-clone-frontend/.env.local
+
+# ===== عمومی =====
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
